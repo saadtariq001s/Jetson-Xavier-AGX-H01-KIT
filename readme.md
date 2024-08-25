@@ -19,7 +19,7 @@ Supported by NVIDIA JetPack and DeepStream SDKs, as well as CUDA®, cuDNN, and T
 * __Sufficient storage for complex AI workloads:__ 32GB 256-Bit LPDDR4x | 137GB/s, 32GB eMMC 5.1, support NVMe expand storage. </br> 
 * __Rapid product development,__ supported by NVIDIA JetPack and DeepStream SDKs, as well as CUDA®, cuDNN, and TensorRT software libraries. </br>
 
-![2](https://github.com/saadtariq001s/JetsonXavierAGX-H01Kit/blob/main/comparsion.jpg)
+![2](comparsion.jpg)
 
 ## Application
 
