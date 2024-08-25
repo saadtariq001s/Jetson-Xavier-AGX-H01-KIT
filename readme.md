@@ -8,7 +8,7 @@ Jetson AGX Xavier H01 is ideal for robots, drones and other autonomous machines.
 
 Supported by NVIDIA JetPack and DeepStream SDKs, as well as CUDA®, cuDNN, and TensorRT software libraries, the kit provides all the tools you need to get started right away. </br>
 
-![1](https://github.com/saadtariq001s/JetsonXavierAGX-H01Kit/blob/main/agxh01.png)
+![1](agx.png)
 
 ## Features
 
