@@ -1,4 +1,4 @@
-<h1 align="center">Jetson Xavier AGX H01-Kit by Seeed Studio</h1>
+<h1 align="center">Nvidia Jetson Xavier AGX H01-Kit by Seeed Studio</h1>
 
 ## Introduction
 
