@@ -35,7 +35,7 @@ Meituan provides an innovative and holistic solution for autonomous delivery, wh
 
 Malamute, our Edge AI partner, has integrated NVIDIA Embedded AGX Xavier, NVIDIA RIVA, and Snap Inc. Ghost’s AR Innovation Lab at their Atlas Communication System, an on-equipment industrial messaging system using natural language processing and spatial computing to improve workplace productivity and process traceability
 
-## More Application
+## Scope
 
 * **Agriculture:** Smart farm in crop-dusting, monitoring,
 * **Optical Inspection:** Automatic inspection robot
